@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   version="1.1"
+   id="svg1050"
+   width="568.88892"
+   height="386.03174"
+   viewBox="0 0 568.88892 386.03174"
+   sodipodi:docname="Iroasobi.svg"
+   inkscape:version="1.2 (dc2aedaf03, 2022-05-15)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1054" />
+  <sodipodi:namedview
+     id="namedview1052"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false"
+     inkscape:zoom="0.80412987"
+     inkscape:cx="325.19623"
+     inkscape:cy="185.29345"
+     inkscape:window-width="1366"
+     inkscape:window-height="705"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg1050" />
+  <g
+     inkscape:groupmode="layer"
+     id="layer1"
+     inkscape:label="Layer 1"
+     style="display:inline">
+    <ellipse
+       style="display:inline;opacity:1;fill:#ffffff;fill-opacity:1;stroke:#808080;stroke-width:15.1181;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke markers fill"
+       id="path1581"
+       ry="130.46298"
+       rx="90.281532"
+       cy="194.50156"
+       cx="182.1342" />
+    <ellipse
+       style="opacity:1;fill:#000000;stroke-width:1.81299;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke markers fill"
+       id="path1684"
+       cx="224.22299"
+       cy="201.19383"
+       rx="32.520893"
+       ry="43.101849" />
+    <ellipse
+       style="display:inline;opacity:1;fill:#ffffff;fill-opacity:1;stroke:#808080;stroke-width:15.1181;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke markers fill"
+       id="ellipse1964"
+       ry="130.46298"
+       rx="90.281532"
+       cy="194.50156"
+       cx="382.13422" />
+    <ellipse
+       style="opacity:1;fill:#000000;stroke-width:1.81299;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke markers fill"
+       id="ellipse1686"
+       cx="338.22299"
+       cy="201.19383"
+       rx="32.520893"
+       ry="43.101849" />
+  </g>
+</svg>
